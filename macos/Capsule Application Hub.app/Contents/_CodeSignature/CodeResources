@@ -12,9 +12,29 @@
 		<data>
 		9/Odcje3kalF1Spc16j7Nl8xM2Y=
 		</data>
+		<key>Resources/dnsmasq/dnsmasq</key>
+		<data>
+		MvQp0UnVGhPX6AN7EGn/8hrHhO0=
+		</data>
 		<key>Resources/icon.icns</key>
 		<data>
 		WoaTzTgaxgSWVW98IbWvpGr+Dko=
+		</data>
+		<key>Resources/startup_scripts/install-dnsmasq.sh</key>
+		<data>
+		NygLZSx2ojhfLR2GLXYkhB+QPl8=
+		</data>
+		<key>Resources/startup_scripts/network-setup.sh</key>
+		<data>
+		0cP8PyCgrnK1kwqdirozH4baCW8=
+		</data>
+		<key>Resources/startup_scripts/service-init.sh</key>
+		<data>
+		vmkUxgw7x8ajwqX7V4qSi+Jjv68=
+		</data>
+		<key>Resources/startup_scripts/system-permissions.sh</key>
+		<data>
+		T63PPZJ6iwD52bqQaAh/gl5kQu0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -33,11 +53,46 @@
 			SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=
 			</data>
 		</dict>
+		<key>Resources/dnsmasq/dnsmasq</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6V9NgaytwnUsI5HzbSSWhtzu91OFSAPQ5Q+vZtaSm+8=
+			</data>
+		</dict>
 		<key>Resources/icon.icns</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			UtzesvoUoL0Hmx+lvtFb0tyLpBs3bBoF6zIQuEsY374=
+			</data>
+		</dict>
+		<key>Resources/startup_scripts/install-dnsmasq.sh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QHnY6iro8XJPIBZnR9ZYlIl6P8+cg45JGQs4oto1o88=
+			</data>
+		</dict>
+		<key>Resources/startup_scripts/network-setup.sh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hTYXjBZfe0Bos9cjQFxj9mIgVhR8h7sfgifi5s1JqlE=
+			</data>
+		</dict>
+		<key>Resources/startup_scripts/service-init.sh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SsVA78kq/TCK+d33OPDhAoKC4dvL3FVxpWeE963Jek0=
+			</data>
+		</dict>
+		<key>Resources/startup_scripts/system-permissions.sh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BHIFBI+yef+Fy9SX/kgDmybP6VJH7+h0Lgw4U4N8ANc=
 			</data>
 		</dict>
 	</dict>
