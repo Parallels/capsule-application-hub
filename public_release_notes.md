@@ -1,6 +1,6 @@
-# application-hub v0.0.3-canary
+# application-hub v0.0.4-canary
 
-**Version**: 0.0.3-canary
+**Version**: 0.0.4-canary
 **Release Channel**: canary
 
 ## Installation
