@@ -14,7 +14,23 @@
 		</data>
 		<key>Resources/dnsmasq/dnsmasq</key>
 		<data>
-		/OWBaQ25Q0QhHcBjuxON93dvXu4=
+		sV7r5ovhQhevhwWnje0OKXxD/9Y=
+		</data>
+		<key>Resources/helper/CapsuleScriptRunner.app/Contents/Info.plist</key>
+		<data>
+		mcJQnFHD7Q1Sv/db2eqCAzNcT4I=
+		</data>
+		<key>Resources/helper/CapsuleScriptRunner.app/Contents/MacOS/CapsuleScriptRunner</key>
+		<data>
+		h2nP3zoXCHM9Gz+d6DW0f+W4zAE=
+		</data>
+		<key>Resources/helper/CapsuleScriptRunner.app/Contents/Resources/icon.icns</key>
+		<data>
+		WoaTzTgaxgSWVW98IbWvpGr+Dko=
+		</data>
+		<key>Resources/helper/CapsuleScriptRunner.app/Contents/_CodeSignature/CodeResources</key>
+		<data>
+		T6RBR8OpAzGXfm5ZsvCUGHcZInc=
 		</data>
 		<key>Resources/icon.icns</key>
 		<data>
@@ -57,7 +73,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zMX4GvrQGQEwX4UfPeMX/TW9j3KlPE9nGA0r1hFLt6k=
+			WQGz5GCpJ+HYRjpgc2xN0KQrkQtXcVvTGNYFHIqiA0o=
+			</data>
+		</dict>
+		<key>Resources/helper/CapsuleScriptRunner.app/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E2noT40khHAlK8tZ3LMCBYHymI009mKBCI2+GnWEuPg=
+			</data>
+		</dict>
+		<key>Resources/helper/CapsuleScriptRunner.app/Contents/MacOS/CapsuleScriptRunner</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2Xw7jdAOgBQwmDiNuPrTho4m4IwBiDxg34RwFxsCvUE=
+			</data>
+		</dict>
+		<key>Resources/helper/CapsuleScriptRunner.app/Contents/Resources/icon.icns</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UtzesvoUoL0Hmx+lvtFb0tyLpBs3bBoF6zIQuEsY374=
+			</data>
+		</dict>
+		<key>Resources/helper/CapsuleScriptRunner.app/Contents/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2n1V52pj2N/v9Hj07icPP1cvIKOeEt16gncAzeefhp8=
 			</data>
 		</dict>
 		<key>Resources/icon.icns</key>
