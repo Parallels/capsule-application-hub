@@ -14,7 +14,7 @@
 		</data>
 		<key>Resources/dnsmasq/dnsmasq</key>
 		<data>
-		sV7r5ovhQhevhwWnje0OKXxD/9Y=
+		+zybdC5lbeygIrrGjPLQnAJ7z28=
 		</data>
 		<key>Resources/helper/CapsuleScriptRunner.app/Contents/Info.plist</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Resources/helper/CapsuleScriptRunner.app/Contents/MacOS/CapsuleScriptRunner</key>
 		<data>
-		h2nP3zoXCHM9Gz+d6DW0f+W4zAE=
+		AfdaLw8OlwNU+baL3q5anxW6LXo=
 		</data>
 		<key>Resources/helper/CapsuleScriptRunner.app/Contents/Resources/icon.icns</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Resources/startup_scripts/install-dnsmasq.sh</key>
 		<data>
-		NygLZSx2ojhfLR2GLXYkhB+QPl8=
+		r0uCAQtOA+Yf/OeP6BB6dZCkTac=
 		</data>
 		<key>Resources/startup_scripts/network-setup.sh</key>
 		<data>
@@ -73,7 +73,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WQGz5GCpJ+HYRjpgc2xN0KQrkQtXcVvTGNYFHIqiA0o=
+			r5GauQSJ0jrJixontlhH9yHsDWMI0lRQdwwWhejzMdY=
 			</data>
 		</dict>
 		<key>Resources/helper/CapsuleScriptRunner.app/Contents/Info.plist</key>
@@ -87,7 +87,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Xw7jdAOgBQwmDiNuPrTho4m4IwBiDxg34RwFxsCvUE=
+			FihSgqh7GoYQYVdg2KK4NsG9KB+YxgNbzS0E2oClwoo=
 			</data>
 		</dict>
 		<key>Resources/helper/CapsuleScriptRunner.app/Contents/Resources/icon.icns</key>
@@ -115,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QHnY6iro8XJPIBZnR9ZYlIl6P8+cg45JGQs4oto1o88=
+			fTavSduoq3ZtgEL4E1c13H7qeno7e1CFeuV0dUHGpLI=
 			</data>
 		</dict>
 		<key>Resources/startup_scripts/network-setup.sh</key>

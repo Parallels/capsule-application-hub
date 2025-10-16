@@ -171,6 +171,9 @@ STAGE_PLIST_CHANGED=false
 SERVICE_RESTARTED=false
 
 stage_binary() {
+  log "Stage: make pid file dir"
+  mkdir -p "/opt/homebrew/var/run/dnsmasq"
+  
   log "Stage: dnsmasq binary"
   if [ ! -f "$DNSMASQ_SOURCE" ]; then
     log "  ERROR: dnsmasq binary not found at ${DNSMASQ_SOURCE}"
@@ -178,6 +181,7 @@ stage_binary() {
   fi
 
   ensure_dir "/usr/local/bin" 755
+
 
   if [ ! -f "$DNSMASQ_TARGET" ] || ! cmp -s "$DNSMASQ_SOURCE" "$DNSMASQ_TARGET"; then
     log "  Installing/Updating ${DNSMASQ_TARGET}"

@@ -1,13 +1,13 @@
-## What's Changed in application-hub v0.0.5-canary
+## What's Changed in application-hub v0.0.6-canary
 
 This is a **canary** release of the application-hub module.
 
 ### Module Information
 - **Module**: application-hub
-- **Version**: 0.0.5-canary
+- **Version**: 0.0.6-canary
 - **Path**: frontend
 - **Environment**: development
-- **Release Date**: 2025-10-15
+- **Release Date**: 2025-10-16
 
 ### Installation
 
